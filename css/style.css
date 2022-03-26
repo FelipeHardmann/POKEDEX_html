@@ -1,0 +1,110 @@
+/*div1*/
+/*body*/
+body{
+    background-color: brown;
+    
+}
+
+/*texto principal*/
+#pokedex{
+
+    border-radius: 25px;
+    width: 100%;
+    height: 60px;
+    margin-top: 0;
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-right: auto;
+    background-color: rgb(0, 0, 0);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*cor texto*/
+.p1{
+    color: rgb(252, 252, 252);
+    
+    font-size: 30px;
+    
+}
+
+/*------------------*/
+
+/*identificação*/
+#ident{
+    background-color: black;
+    width: 500px;
+    height: 600px;
+    margin-top: 20px;
+    border-radius: 25px;
+}
+
+/*formulário*/
+form{
+    margin-top: 20px;
+}
+
+#nome{
+    color: aliceblue;
+    margin-left: 25px;
+    font-size: 20px;
+    
+}
+#poder{
+    color: aliceblue;
+    margin-left: 25px;
+    font-size: 20px;
+    
+}
+.mb-4{
+    margin-top: 25px;
+}
+/*Ataque*/
+#ataque{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.atack{
+    color: aliceblue;
+}
+
+.mb-5{
+    margin-left: 14px;
+    margin-top: 25px;
+}
+
+/*Defesa*/
+#defesa{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.defend{
+    color: aliceblue;
+}
+
+.mb-6{
+    margin-left: 14px;
+    margin-top: 25px;
+}
+
+
+/*Tipo*/
+
+/*Botão*/
+.btn{
+    margin-left: 200px;
+    margin-top: 480px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    border-radius: 25px;
+    
+}
+
+.btn:hover{
+    background-color: rgb(247, 2, 2);
+    
+}
